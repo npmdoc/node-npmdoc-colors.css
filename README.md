@@ -1,9 +1,14 @@
-# api documentation for  [colors.css (v3.0.0)](http://clrs.cc)  [![npm package](https://img.shields.io/npm/v/npmdoc-colors.css.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-colors.css) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-colors.css.svg)](https://travis-ci.org/npmdoc/node-npmdoc-colors.css)
+# npmdoc-colors.css
+
+#### api documentation for  [colors.css (v3.0.0)](http://clrs.cc)  [![npm package](https://img.shields.io/npm/v/npmdoc-colors.css.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-colors.css) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-colors.css.svg)](https://travis-ci.org/npmdoc/node-npmdoc-colors.css)
+
 #### Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.
 
-[![NPM](https://nodei.co/npm/colors.css.png?downloads=true)](https://www.npmjs.com/package/colors.css)
+[![NPM](https://nodei.co/npm/colors.css.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/colors.css)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-colors.css/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-colors.css_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-colors.css/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-colors.css/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-colors.css/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-colors.css/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-colors.css/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-colors.css/build/screenCapture.npmPackageListing.svg)
 
@@ -18,17 +23,14 @@
 {
     "author": {
         "name": "@mrmrs",
-        "email": "hi@mrmrs.cc",
         "url": "http://mrmrs.cc"
     },
     "bugs": {
-        "url": "http://github.com/mrmrs/colors/issues",
-        "email": "hi@mrmrs.cc"
+        "url": "http://github.com/mrmrs/colors/issues"
     },
     "contributors": [
         {
-            "name": "@mrmrs",
-            "email": "hi@mrmrs.cc"
+            "name": "@mrmrs"
         },
         {
             "name": "@ilanbiala"
@@ -43,7 +45,6 @@
         },
         {
             "name": "@nschonni",
-            "email": "nschonni@gmail.com",
             "url": "http://wet-boew.github.io/"
         },
         {
@@ -51,7 +52,6 @@
         },
         {
             "name": "@enyo",
-            "email": "m@tias.me",
             "url": "http://colorglare.com"
         }
     ],
@@ -83,13 +83,11 @@
     "main": "js/colors.js",
     "maintainers": [
         {
-            "name": "mrmrs",
-            "email": "hi@mrmrs.cc"
+            "name": "mrmrs"
         }
     ],
     "name": "colors.css",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/mrmrs/colors.git"
@@ -101,33 +99,6 @@
     "version": "3.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module colors.css](#apidoc.module.colors.css)
-1.  string <span class="apidocSignatureSpan">colors.css.</span>aqua
-1.  string <span class="apidocSignatureSpan">colors.css.</span>black
-1.  string <span class="apidocSignatureSpan">colors.css.</span>blue
-1.  string <span class="apidocSignatureSpan">colors.css.</span>fuchsia
-1.  string <span class="apidocSignatureSpan">colors.css.</span>gray
-1.  string <span class="apidocSignatureSpan">colors.css.</span>green
-1.  string <span class="apidocSignatureSpan">colors.css.</span>lime
-1.  string <span class="apidocSignatureSpan">colors.css.</span>maroon
-1.  string <span class="apidocSignatureSpan">colors.css.</span>navy
-1.  string <span class="apidocSignatureSpan">colors.css.</span>olive
-1.  string <span class="apidocSignatureSpan">colors.css.</span>orange
-1.  string <span class="apidocSignatureSpan">colors.css.</span>purple
-1.  string <span class="apidocSignatureSpan">colors.css.</span>red
-1.  string <span class="apidocSignatureSpan">colors.css.</span>silver
-1.  string <span class="apidocSignatureSpan">colors.css.</span>teal
-1.  string <span class="apidocSignatureSpan">colors.css.</span>white
-1.  string <span class="apidocSignatureSpan">colors.css.</span>yellow
-
-
-
-# <a name="apidoc.module.colors.css"></a>[module colors.css](#apidoc.module.colors.css)
 
 
 
