@@ -96,7 +96,8 @@
         "start": "tachyons src/colors.css > css/colors.css && tachyons src/colors.css --minify > css/colors.min.css && tachyons src/colors.css --generate-docs --package=../../package.json > readme.md"
     },
     "style": "css/colors.css",
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
